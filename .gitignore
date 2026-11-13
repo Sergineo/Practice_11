@@ -19,4 +19,4 @@ dist/
 # Локальные настройки и секреты
 config.ini
 .env
-*.log
+*.log   
