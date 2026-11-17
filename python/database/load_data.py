@@ -8,6 +8,7 @@ from python.database.models.Shoe import Shoe
 from python.database.models.User import User
 from python.database.models.Order import Order
 
+#Crud операции
 
 def is_empty_data(table):
     session = get_session()
