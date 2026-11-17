@@ -5,6 +5,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy.engine import URL
 from sqlalchemy.orm import sessionmaker
 
+# Подключение к бд
 
 DB_CONNECTION_ERROR = (
     "Не удалось подключиться к базе данных. "
