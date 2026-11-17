@@ -14,6 +14,8 @@ def main():
     if is_empty_data(Order):
         order_file()
 
+#@@@@@@@@@@@@@@@@@@@@@
+
     app = QApplication([])
     window = MainWindow()
     window.show()
